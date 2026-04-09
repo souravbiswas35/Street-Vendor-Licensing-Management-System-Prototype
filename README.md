@@ -126,7 +126,7 @@ Design        →  Figma                  (UI/UX Prototyping)
 |------|--------|
 | Sourav Biswas | [![GitHub](https://img.shields.io/badge/GitHub-souravbiswas35-181717?style=flat-square&logo=github)](https://github.com/souravbiswas35) |
 | Saidul Islam Shuvo | [![GitHub](https://img.shields.io/badge/GitHub-shuivva-181717?style=flat-square&logo=github)](https://github.com/shuivva) |
-| Sakibul Alam | — |
+| Sakibul Alam | [![GitHub](https://img.shields.io/badge/GitHub-SakibulAlam001-181717?style=flat-square&logo=github)](https://github.com/SakibulAlam001) |
 
 ---
 
